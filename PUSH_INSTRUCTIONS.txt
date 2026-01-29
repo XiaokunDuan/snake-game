@@ -1,0 +1,22 @@
+# 尝试手动推送
+
+Git认证似乎已设置，但推送命令卡住。建议你手动执行：
+
+1. 打开命令提示符(cmd)或PowerShell
+2. 进入目录：`cd C:\Users\DELL\clawd`
+3. 执行：`git push origin master`
+
+如果还不行，可能需要：
+- 使用GitHub Desktop客户端
+- 或手动在GitHub网页上传文件
+
+**备选方案：直接在GitHub网页上传**
+1. 打开 https://github.com/XiaokunDuan/snake-game
+2. 点击"Add file" → "Upload files"
+3. 上传所有文件：
+   - snake.html
+   - README.md
+   - .gitignore
+   - 其他文件
+
+需要我帮你整理文件内容以便手动复制粘贴到GitHub吗？
